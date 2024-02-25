@@ -1,4 +1,4 @@
-# google-OAuth
+# OAuth สำหรับ Google
 
 - เป็นตัวอย่างการทำ OAuth 2.0 ของ google เพื่อสำหรับการทำ Authorization framework
 
